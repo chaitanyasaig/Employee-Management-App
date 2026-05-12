@@ -13,6 +13,8 @@
 > The Employee Management Application is used as a practical business use case to showcase how enterprise applications implement centralized identity management and secure API authorization.
 
 ---
+<img width="1691" height="930" alt="Request-Flow-with-authentication" src="https://github.com/user-attachments/assets/a2310ec8-612b-43af-9e09-3defbed71e4d" />
+
 
 # 🎯 Primary Goal of This Project
 
